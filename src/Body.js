@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import './Styles.css';
 
-import printIcon from './print-icon.png';
-import chocoPizza from './choco-pizza.png';
+import printIcon from './assets/print-icon.png';
+import chocoPizza from './assets/choco-pizza.png';
 
 class Body extends Component {
     render() { 

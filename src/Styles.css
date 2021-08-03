@@ -124,14 +124,14 @@ article {
 
 .border {
     height: 13px;
-    background-image: url("./hr-img.png");
+    background-image: url("./assets/hr-img.png");
     border-image-repeat: repeat;
     border: 4px;
     width: 901px;
     margin: 30px 0 30px 0;
 }
 #recipe {
-    background-image: url("./list-bg.png");
+    background-image: url("./assets/list-bg.png");
     height: 305px;
     width: 899px;
 }
