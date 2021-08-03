@@ -3,6 +3,7 @@ import './Styles.css';
 
 import printIcon from './assets/print-icon.png';
 import chocoPizza from './assets/choco-pizza.png';
+import Recipe from './Recipe';
 
 class Body extends Component {
     render() { 
@@ -25,6 +26,7 @@ class Body extends Component {
                         <p>Using an ice cream machine, pour liquids into the frozen basin and process according to manufacturer instructions, i.e., let spin and thicken for 20 minutes before adding the mascarpone, fig jam mixture, and the nuts. Continue to process for +/- 10 minutes. Pour semi-frozen mixture into a pyrex dish or glass Tupperware. Freeze for at least two hours before serving.</p>
                     </section>
                 </section>
+                <Recipe />
             </main>
          );
     }

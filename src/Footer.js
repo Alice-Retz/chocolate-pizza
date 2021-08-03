@@ -8,7 +8,7 @@ class Footer extends Component {
     render() { 
         return ( 
             <section>
-                <section class="border" />
+                <section className="border" />
                     <article>
                         <img src={vanPic} alt="Vanessa Stevenson" />
                         <section>
